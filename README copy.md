@@ -1,4 +1,4 @@
-# gitpages
+# search-JS-core
 Core library for Search JS
 steps to run :
 <ol>
