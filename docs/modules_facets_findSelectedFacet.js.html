@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>modules/didyoumean/getDidYouMeanFromResponse.js - Documentation</title>
+    <title>modules/facets/findSelectedFacet.js - Documentation</title>
 
     <script src="scripts/prettify/prettify.js"></script>
     <script src="scripts/prettify/lang-css.js"></script>
@@ -29,7 +29,7 @@
 
 <div id="main">
     
-    <h1 class="page-title">modules/didyoumean/getDidYouMeanFromResponse.js</h1>
+    <h1 class="page-title">modules/facets/findSelectedFacet.js</h1>
     
 
     
@@ -40,28 +40,15 @@
     <section>
         <article>
             <pre class="prettyprint source linenums"><code>/**
-*  @description 
-* will return did you mean texts in an array. 
-*example:
-   &lt;pre>
-        &lt;code>
-        [
-            {
-                "suggestion": "black",
-                "frequency": "509"
-            }
-        ]
-        &lt;/code>
-    &lt;/pre>
-    * @method getDidYouMeanFromResponse 
+* @description 
+* to get the selected facet values
+* accepts a string
+* @param {string} parent eg:color_facet
+* @method findSelectedFacet
 */
-
-export default function() {
-    const responseObj = this.getResponseObj();
-    if(responseObj &amp;&amp; responseObj.didYouMean) {
-        return responseObj.didYouMean
-    }
-    return null
+export default function(selected) {
+    //items.findIndex(x => x.id == item.id);
+    return this.state.selectedFacets[selected];
 };
 </code></pre>
         </article>

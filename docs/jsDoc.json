@@ -1,14 +1,10 @@
 {
     "source": {
         "includePattern": ".+\\.js(doc|x)?$",   // Only process file ending in .js, .jsdoc or .jsx
-        "include": ["src","package.json", "README.md"],                       // Check all folders.
+        "include": ["src"],                       // Check all folders.
         "exclude": ["node_modules"]             // Be gone, node_modules.
     },
     "recurseDepth": 10,                         // Only go 10 levels deep.
-    "opts": {
-        "destination": "docs",               // Where I want my docs to be generated.
-        "recurse": true                         // Same as using -r or --recurse
-    },
     "plugins": [
         "plugins/markdown"
     ],
@@ -18,6 +14,8 @@
         "useLongnameInNav": false
     },
     "opts": {
-        "template": "../node_modules/minami"
+        "template": "../node_modules/minami",
+        "destination": "docs",  
+        "recurse": true   
     }
 }
