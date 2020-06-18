@@ -1,4 +1,4 @@
-https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?style=plastic
+![npm (scoped)](https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?style=plastic)
 
 # gitpages
 Core library for Search JS
