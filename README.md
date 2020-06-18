@@ -1,6 +1,9 @@
 <a href="https://www.npmjs.com/package/@unbxd-ui/vanilla-search-library">
   <img alt="npm" src="https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue">
 </a>
+<a href="https://www.npmjs.com/package/@unbxd-ui/vanilla-search-library">
+  <img alt="npm" src="https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library">
+</a>
 
 # gitpages
 Core library for Search JS
