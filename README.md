@@ -1,5 +1,4 @@
-
-![npm](https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue)
+https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?style=plastic
 
 # gitpages
 Core library for Search JS
