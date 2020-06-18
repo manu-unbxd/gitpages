@@ -1,4 +1,4 @@
-<label style="background:#FF0000;padding:2px 0px;font-size:10px;color:#FFFFFF;border-radius:2px">v1.0.1</label>
+[<label style="background:#FF0000;padding:2px 0px;font-size:10px;color:#FFFFFF;border-radius:2px">v1.0.1</label>]
 
 # gitpages
 Core library for Search JS
