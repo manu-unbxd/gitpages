@@ -1,4 +1,5 @@
-[<label style="background:#FF0000;padding:2px 0px;font-size:10px;color:#FFFFFF;border-radius:2px">v1.0.1</label>]
+
+[<img src="https://img.shields.io/badge/-v1.0.1-blue" alt="React virtualized" data-canonical-src="https://cloud.githubusercontent.com/assets/29597/11737732/0ca1e55e-9f91-11e5-97f3-098f2f8ed866.png" width="330" height="100" />](http://bvaughn.github.io/react-virtualized/)
 
 # gitpages
 Core library for Search JS
