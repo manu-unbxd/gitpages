@@ -1,4 +1,4 @@
-![npm (scoped)](https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?style=plastic)
+![npm (scoped)](https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue&style=plastic)
 ![NPM (scoped)](https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library)
 
 # gitpages
