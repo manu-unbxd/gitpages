@@ -1,5 +1,5 @@
 
-[<img src="https://img.shields.io/badge/-v1.0.1-blue" alt="React virtualized" data-canonical-src="https://cloud.githubusercontent.com/assets/29597/11737732/0ca1e55e-9f91-11e5-97f3-098f2f8ed866.png" width="330" height="100" />](http://bvaughn.github.io/react-virtualized/)
+![npm](https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue)
 
 # gitpages
 Core library for Search JS
