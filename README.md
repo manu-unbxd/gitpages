@@ -1,5 +1,6 @@
-<a href="http://bvaughn.github.io/react-virtualized"><img src="https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue&style=plastic"/></a>
-![NPM (scoped)](https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library)(http://bvaughn.github.io/react-virtualized/)
+<a href="https://www.npmjs.com/package/@unbxd-ui/vanilla-search-library">
+  <img alt="npm" src="https://img.shields.io/npm/v/@unbxd-ui/vanilla-search-library?color=blue">
+</a>
 
 # gitpages
 Core library for Search JS
