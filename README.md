@@ -4,11 +4,16 @@
 <a href="https://www.npmjs.com/package/@unbxd-ui/vanilla-search-library">
   <img alt="npm" src="https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library">
 </a>
+
+
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |                                                                                 
+| zebra stripes | are neat        |    $1 |      
+
+
 
 # gitpages
 Core library for Search JS
