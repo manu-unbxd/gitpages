@@ -5,6 +5,12 @@
   <img alt="npm" src="https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library">
 </a>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 # gitpages
 Core library for Search JS
 steps to run :
