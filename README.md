@@ -4,12 +4,14 @@
 <a href="https://www.npmjs.com/package/@unbxd-ui/vanilla-search-library">
   <img alt="npm" src="https://img.shields.io/npm/l/@unbxd-ui/vanilla-search-library">
 </a>
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option                	| Datatype 	| Description                                                                                                        	|
+|-----------------------	|----------	|--------------------------------------------------------------------------------------------------------------------	|
+| searchBoxSelector     	| Element  	| requires an html element. Search input will be captured from this element eg:document.getElementById("unbxdInput") 	|
+| searchTrigger         	| String   	| requires an event name. search will be triggered after this event triggered eg:'click'                             	|
+| searchResultsSelector 	| Element  	| requires an html element. products will be rendered here. eg:document.getElementById("searchResultsWrapper")       	|
+|                       	|          	|                                                                                                                    	|
+|                       	|          	|                                                                                                                    	|
+|                       	|          	|                                                                                       
 
 # gitpages
 Core library for Search JS
