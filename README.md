@@ -7,19 +7,19 @@
 
 
 
-| Option                	| Datatype 	| Description                                                                                                        	|
-|-----------------------	|----------	|--------------------------------------------------------------------------------------------------------------------	|
-| searchBoxSelector     	| Element  	| requires an html element. Search input will be captured from this element eg:document.getElementById("unbxdInput") 	|
-| searchTrigger         	| String   	| requires an event name. search will be triggered after this event triggered eg:'click'                             	|
-| searchResultsSelector 	| Element  	| requires an html element. products will be rendered here. eg:document.getElementById("searchResultsWrapper")       	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|                                                                                                                    	|
-|                       	|          	|          
+| Option                	| Datatype 	| Description                                                                                                                                                                                                                                                                                                                     	|
+|-----------------------	|----------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| searchBoxSelector     	| Element  	| requires an html element. Search input will be captured from this element eg:document.getElementById("unbxdInput")                                                                                                                                                                                                              	|
+| searchTrigger         	| String   	| requires an event name. search will be triggered after this event triggered eg:'click'                                                                                                                                                                                                                                          	|
+| siteKey               	| String   	| given site key                                                                                                                                                                                                                                                                                                                  	|
+| apiKey                	| String   	| given api key                                                                                                                                                                                                                                                                                                                   	|
+| sdkHostName           	| String   	| api domain                                                                                                                                                                                                                                                                                                                      	|
+| productType           	| String   	| SEARCH or BROWSE or CATEGORY                                                                                                                                                                                                                                                                                                    	|
+| searchQueryParam      	| String   	| search term will be appended to this.                                                                                                                                                                                                                                                                                           	|
+| searchResultsSelector 	| Element  	| requires an html element. products will be rendered here. eg:document.getElementById("searchResultsWrapper")                                                                                                                                                                                                                    	|
+| searchResultsTemplate 	| function 	| this function has two parameters. product and idx product is the each product object. idx is the index ```js ex:function(product,idx){ const {  uniqueId,  title  } = product;   return `<div id="${uniqueId}" data-prank="${idx}" data-item="product" class="product-item">           <h3>${title}</h3>         </div>`; } ``` 	|
+|                       	|          	|                                                                                                                                                                                                                                                                                                                                 	|
+
 
 
 # gitpages
